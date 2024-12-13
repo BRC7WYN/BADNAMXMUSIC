@@ -75,8 +75,8 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             )
         ],
       [
-            InlineKeyboardButton(text="❍𝐎ᴡɴᴇʀ ❍", url="https://t.me/KRISHSUPPORT",),
-            InlineKeyboardButton(text="❍𝐒ᴜᴘᴘᴏʀᴛ❍", url="https://t.me/KRISHSUPPORT",),
+            InlineKeyboardButton(text="❍𝐎ᴡɴᴇʀ ❍", url="https://t.me/updates_channel",),
+            InlineKeyboardButton(text="❍𝐒ᴜᴘᴘᴏʀᴛ❍", url="https://t.me/updates_channel",),
         ],
         [
             InlineKeyboardButton(text=" 𝖠ᴅᴅ ᴍᴇ 𝖡ᴀʙʏ", url="https://t.me/syn_ixbot?startgroup=true",),
@@ -99,8 +99,8 @@ def stream_markup(_, videoid, chat_id):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
          ],
         [
-            InlineKeyboardButton(text="❍𝐎ᴡɴᴇʀ ❍", url="https://t.me/KRISHSUPPORT",),
-            InlineKeyboardButton(text="❍𝐒ᴜᴘᴘᴏʀᴛ❍", url="https://t.me/KRISHSUPPORT",),
+            InlineKeyboardButton(text="❍𝐎ᴡɴᴇʀ ❍", url="https://t.me/updates_channel",),
+            InlineKeyboardButton(text="❍𝐒ᴜᴘᴘᴏʀᴛ❍", url="https://t.me/updates_channel",),
         ],
         [
             InlineKeyboardButton(text=" 𝖠ᴅᴅ ᴍᴇ 𝖡ᴀʙʏ", url="https://t.me/syn_ixbot?startgroup=true",),
